@@ -39,6 +39,22 @@
       "last_seen": "2026-04-25T00:00:00Z",
       "blob_count": 65,
       "note": "Kevin OA. 1050gt. Windows 10. Fifth peer."
+    },
+    "7900xt-wsl": {
+      "endpoint": "10.69.10.121",
+      "transport": "wireguard",
+      "substrate_version": "genesis-v1",
+      "last_seen": "2026-04-25T06:48:00Z",
+      "blob_count": 84,
+      "note": "Ari OA. 7900xt WSL2 Ubuntu 22.04. PostgreSQL 15.17. Sixth peer."
+    },
+    "7900xt-windows": {
+      "endpoint": "10.69.10.121:5432",
+      "transport": "tcp",
+      "substrate_version": "genesis-v1",
+      "last_seen": "2026-04-25T06:48:00Z",
+      "blob_count": 83,
+      "note": "Ari OA. 7900xt bare metal Windows 11. PostgreSQL 15.12. Seventh peer."
     }
   }
 }
