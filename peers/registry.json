@@ -1,0 +1,28 @@
+{
+  "peers": {
+    "mythserv1-radiant": {
+      "endpoint": "10.69.0.2",
+      "transport": "docker:radiant_db",
+      "substrate_version": "genesis-v1",
+      "last_seen": "2026-04-25T03:00:00Z",
+      "blob_count": 87,
+      "note": "First Substrate instance. Docker container on MythServ1."
+    },
+    "mythserv1-windows": {
+      "endpoint": "10.69.69.69:5433",
+      "transport": "tcp",
+      "substrate_version": "genesis-v1",
+      "last_seen": "2026-04-24T22:00:00Z",
+      "blob_count": 66,
+      "note": "Bare metal Windows 10. PostgreSQL 15. First cross-platform proof."
+    },
+    "joeys-mac": {
+      "endpoint": "joeys-mac.mythos",
+      "transport": "wireguard",
+      "substrate_version": "genesis-v1",
+      "last_seen": "2026-04-25T00:00:00Z",
+      "blob_count": 65,
+      "note": "Joey's Mac. Third Substrate instance. First external peer."
+    }
+  }
+}
