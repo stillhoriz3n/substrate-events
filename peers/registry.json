@@ -23,6 +23,14 @@
       "last_seen": "2026-04-25T00:00:00Z",
       "blob_count": 65,
       "note": "Joey's Mac. Third Substrate instance. First external peer."
+    },
+    "jarvis-3060ti": {
+      "endpoint": "10.69.10.110",
+      "transport": "tcp",
+      "substrate_version": "genesis-v1",
+      "last_seen": "2026-04-25T12:00:00Z",
+      "blob_count": 65,
+      "note": "Jarvis OA. 3060ti. Windows 10. Fourth peer."
     }
   }
 }
