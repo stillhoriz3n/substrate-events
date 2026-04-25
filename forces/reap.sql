@@ -1,8 +1,7 @@
-CREATE OR REPLACE FUNCTION substrate.reap(
-    p_grace_period INTERVAL DEFAULT '7 days',
-    p_mode TEXT DEFAULT 'purge',
-    p_dry_run BOOLEAN DEFAULT true
-) RETURNS JSONB AS $$
+CREATE OR REPLACE FUNCTION substrate.reap(p_grace_period interval DEFAULT '7 days'::interval, p_mode text DEFAULT 'purge'::text, p_dry_run boolean DEFAULT true)
+ RETURNS jsonb
+ LANGUAGE plpython3u
+AS $function$
 import json
 
 rows = plpy.execute(plpy.prepare("""
@@ -90,4 +89,4 @@ for row in rows:
 
 results['bytes_saved'] = results['bytes_reclaimable']
 return json.dumps(results)
-$$ LANGUAGE plpython3u;
+$function$
