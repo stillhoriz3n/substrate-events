@@ -31,6 +31,14 @@
       "last_seen": "2026-04-25T12:00:00Z",
       "blob_count": 65,
       "note": "Jarvis OA. 3060ti. Windows 10. Fourth peer."
+    },
+    "kevin-1050gt": {
+      "endpoint": "10.69.10.119",
+      "transport": "tcp",
+      "substrate_version": "genesis-v1",
+      "last_seen": "2026-04-25T00:00:00Z",
+      "blob_count": 65,
+      "note": "Kevin OA. 1050gt. Windows 10. Fifth peer."
     }
   }
 }
