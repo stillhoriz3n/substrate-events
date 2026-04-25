@@ -17,12 +17,16 @@
       "note": "Bare metal Windows 10. PostgreSQL 15. First cross-platform proof."
     },
     "joeys-mac": {
-      "endpoint": "joeys-mac.mythos",
+      "endpoint": "10.69.0.60:5433",
       "transport": "wireguard",
       "substrate_version": "genesis-v1",
-      "last_seen": "2026-04-25T00:00:00Z",
-      "blob_count": 65,
-      "note": "Joey's Mac. Third Substrate instance. First external peer."
+      "last_seen": "2026-04-25T07:00:00Z",
+      "blob_count": 6762,
+      "publishable_count": 6762,
+      "governance": "active",
+      "compositions": 17,
+      "forces": 115,
+      "note": "Joey Mac. Third peer. Governance active. 6762 blobs \u2014 full ChatGPT + Poe conversation history ingested. Largest node on mesh."
     },
     "jarvis-3060ti": {
       "endpoint": "10.69.10.110",
