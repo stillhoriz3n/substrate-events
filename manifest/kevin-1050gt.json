@@ -105792,5 +105792,16 @@
       "SYSTEM"
     ],
     "origin_peer": "kevin-1050gt"
+  },
+  {
+    "unid": "f30ffddd-e874-41e9-b86c-4ad5a77a9684",
+    "content_hash": "5fe2b8f16cf128a35214a7924a265058763b4502f3c179e630ad3668373772bb",
+    "ordinal": 18744,
+    "composition": "memory",
+    "name": "bench-test",
+    "subscriber": [
+      "SYSTEM"
+    ],
+    "origin_peer": "kevin-1050gt"
   }
 ]
