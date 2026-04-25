@@ -1,7 +1,7 @@
 [
     {
         "unid": "00000000-0000-0000-0000-000000000001",
-        "content_hash": "\\x7a9f3caaf228d7c4fd0f4b2a7ffef522b93b7aeeaee183f0da98b4131d1c4924",
+        "content_hash": "7a9f3caaf228d7c4fd0f4b2a7ffef522b93b7aeeaee183f0da98b4131d1c4924",
         "ordinal": 2,
         "composition": "principal",
         "name": "SYSTEM",
@@ -13,7 +13,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000001",
-        "content_hash": "\\x670289a2b9fb43fe019f8a104f3f224c7e91d2e5e1b0ea0ddd95db804f3692ed",
+        "content_hash": "670289a2b9fb43fe019f8a104f3f224c7e91d2e5e1b0ea0ddd95db804f3692ed",
         "ordinal": 5,
         "composition": "field-type",
         "name": "utf8",
@@ -25,7 +25,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000002",
-        "content_hash": "\\x73c574a944b32ef5252cf77579dcc8296d97317c3caa35dae62b68fa0e0dbb60",
+        "content_hash": "73c574a944b32ef5252cf77579dcc8296d97317c3caa35dae62b68fa0e0dbb60",
         "ordinal": 8,
         "composition": "field-type",
         "name": "integer",
@@ -37,7 +37,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000003",
-        "content_hash": "\\x164ba4b1da3986ddd5952ce90885e3c4b746d40246161a52f18b9d84088aa041",
+        "content_hash": "164ba4b1da3986ddd5952ce90885e3c4b746d40246161a52f18b9d84088aa041",
         "ordinal": 11,
         "composition": "field-type",
         "name": "float",
@@ -49,7 +49,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000004",
-        "content_hash": "\\xaea0e398ed56f79177072f8c42abd9473308021f8762bc7ba32f976613f52cc0",
+        "content_hash": "aea0e398ed56f79177072f8c42abd9473308021f8762bc7ba32f976613f52cc0",
         "ordinal": 14,
         "composition": "field-type",
         "name": "decimal",
@@ -61,7 +61,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000005",
-        "content_hash": "\\x36a3bf6cedc9877fe6c0c5af605452a1c8103ebbf52f35d0b98b85fea896f831",
+        "content_hash": "36a3bf6cedc9877fe6c0c5af605452a1c8103ebbf52f35d0b98b85fea896f831",
         "ordinal": 17,
         "composition": "field-type",
         "name": "boolean",
@@ -73,7 +73,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000006",
-        "content_hash": "\\x0679bef485e0de266d8beabeb646848203bba9a1a422706a05c7ac6d39d81fe0",
+        "content_hash": "0679bef485e0de266d8beabeb646848203bba9a1a422706a05c7ac6d39d81fe0",
         "ordinal": 20,
         "composition": "field-type",
         "name": "timestamp",
@@ -85,7 +85,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000007",
-        "content_hash": "\\x59048777d57b3eee6471893b5b6ee7add0723db8d8f170583b07e4541ee3185c",
+        "content_hash": "59048777d57b3eee6471893b5b6ee7add0723db8d8f170583b07e4541ee3185c",
         "ordinal": 23,
         "composition": "field-type",
         "name": "duration",
@@ -97,7 +97,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000008",
-        "content_hash": "\\xf43fd4110c44e8984eb461c2c97d28f29f5029516a43dcf50f8dce26df8d0477",
+        "content_hash": "f43fd4110c44e8984eb461c2c97d28f29f5029516a43dcf50f8dce26df8d0477",
         "ordinal": 26,
         "composition": "field-type",
         "name": "reference",
@@ -109,7 +109,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000009",
-        "content_hash": "\\x0f822506bd6f5b5010e6b77d79dbd7fb704a5077b44b0c86ae2ff6e4f402ffbf",
+        "content_hash": "0f822506bd6f5b5010e6b77d79dbd7fb704a5077b44b0c86ae2ff6e4f402ffbf",
         "ordinal": 29,
         "composition": "field-type",
         "name": "base64",
@@ -121,7 +121,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000010",
-        "content_hash": "\\xcf64c5aee74e1cda4ab2e6a7623b546e34c88235251f2262c1e80a2a73a1e169",
+        "content_hash": "cf64c5aee74e1cda4ab2e6a7623b546e34c88235251f2262c1e80a2a73a1e169",
         "ordinal": 32,
         "composition": "field-type",
         "name": "uuid",
@@ -133,7 +133,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000011",
-        "content_hash": "\\xb05dd3ae67be2c4eaf70afccfefd3c7045bf795ea1f35fe1cc7251d597142c3b",
+        "content_hash": "b05dd3ae67be2c4eaf70afccfefd3c7045bf795ea1f35fe1cc7251d597142c3b",
         "ordinal": 35,
         "composition": "field-type",
         "name": "public-key",
@@ -145,7 +145,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000012",
-        "content_hash": "\\xc6ecec066e03a253ea9bed48a9bdc4604ca09b212f8186c2e446392693880f09",
+        "content_hash": "c6ecec066e03a253ea9bed48a9bdc4604ca09b212f8186c2e446392693880f09",
         "ordinal": 38,
         "composition": "field-type",
         "name": "hash",
@@ -157,7 +157,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000013",
-        "content_hash": "\\xd71b1156ee7ca28a21721a0310be927b7f9c102097f42866a792e61c748903ff",
+        "content_hash": "d71b1156ee7ca28a21721a0310be927b7f9c102097f42866a792e61c748903ff",
         "ordinal": 41,
         "composition": "field-type",
         "name": "signature",
@@ -169,7 +169,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000014",
-        "content_hash": "\\xa7838fac2450a307498efed114eb7da39fc2e87dbd2fd7608ded6e54593050a9",
+        "content_hash": "a7838fac2450a307498efed114eb7da39fc2e87dbd2fd7608ded6e54593050a9",
         "ordinal": 44,
         "composition": "field-type",
         "name": "ip",
@@ -181,7 +181,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000015",
-        "content_hash": "\\xd0121cd1bb60bb1284677bba36cf5250c1d7dcb34d31d69e01fce966c9471bc1",
+        "content_hash": "d0121cd1bb60bb1284677bba36cf5250c1d7dcb34d31d69e01fce966c9471bc1",
         "ordinal": 47,
         "composition": "field-type",
         "name": "port",
@@ -193,7 +193,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000016",
-        "content_hash": "\\xb7efe569f19b53b74a45217d592bf1bf20a082c7287f0d22b08880b3d5f52791",
+        "content_hash": "b7efe569f19b53b74a45217d592bf1bf20a082c7287f0d22b08880b3d5f52791",
         "ordinal": 50,
         "composition": "field-type",
         "name": "mac",
@@ -205,7 +205,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000017",
-        "content_hash": "\\xeb1bca01e4a76972979cfa7d8a9c57b23926ba2c0ec351f5635050535da32a33",
+        "content_hash": "eb1bca01e4a76972979cfa7d8a9c57b23926ba2c0ec351f5635050535da32a33",
         "ordinal": 53,
         "composition": "field-type",
         "name": "uri",
@@ -217,7 +217,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000018",
-        "content_hash": "\\x8bdccd497eadba6e446ff2bfc39de48bc9862559dcdaf214e27a12c16e848797",
+        "content_hash": "8bdccd497eadba6e446ff2bfc39de48bc9862559dcdaf214e27a12c16e848797",
         "ordinal": 56,
         "composition": "field-type",
         "name": "token",
@@ -229,7 +229,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000019",
-        "content_hash": "\\xc92297d88375ba03dea620ace4adfb0caa5b112de8258e2ffc0e42bd81cbc3dc",
+        "content_hash": "c92297d88375ba03dea620ace4adfb0caa5b112de8258e2ffc0e42bd81cbc3dc",
         "ordinal": 59,
         "composition": "field-type",
         "name": "nonce",
@@ -241,7 +241,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000020",
-        "content_hash": "\\x5edf9f3e779e2a7f26b5d9bc7dbf1c4ed15ed50fa7581dd68b4c119bc5c5252f",
+        "content_hash": "5edf9f3e779e2a7f26b5d9bc7dbf1c4ed15ed50fa7581dd68b4c119bc5c5252f",
         "ordinal": 62,
         "composition": "field-type",
         "name": "wasm",
@@ -253,7 +253,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000021",
-        "content_hash": "\\x57fcec957edbdeceea48d8bddd9be5646d1d246b4c26b012f529b7d90b2f988a",
+        "content_hash": "57fcec957edbdeceea48d8bddd9be5646d1d246b4c26b012f529b7d90b2f988a",
         "ordinal": 65,
         "composition": "field-type",
         "name": "executable",
@@ -265,7 +265,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000022",
-        "content_hash": "\\x04322ef8d0189d7116f2d7fa48b89b80b30565b3b1b1d77d613e3373bc565664",
+        "content_hash": "04322ef8d0189d7116f2d7fa48b89b80b30565b3b1b1d77d613e3373bc565664",
         "ordinal": 68,
         "composition": "field-type",
         "name": "png",
@@ -277,7 +277,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000023",
-        "content_hash": "\\x5db90a55665678b8a787dc801d0a64869d90c43175a53cb2991042db573f732d",
+        "content_hash": "5db90a55665678b8a787dc801d0a64869d90c43175a53cb2991042db573f732d",
         "ordinal": 71,
         "composition": "field-type",
         "name": "jpeg",
@@ -289,7 +289,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000024",
-        "content_hash": "\\x2362e4f82ca01fceae3c8b6ca486aec7d79f0091ab004b5adb22e0ac9b192234",
+        "content_hash": "2362e4f82ca01fceae3c8b6ca486aec7d79f0091ab004b5adb22e0ac9b192234",
         "ordinal": 74,
         "composition": "field-type",
         "name": "pcm",
@@ -301,7 +301,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000025",
-        "content_hash": "\\x6136330a885994a18f9ab602e5a308efd1e4ff5ca13f05e38c987b39bb012e21",
+        "content_hash": "6136330a885994a18f9ab602e5a308efd1e4ff5ca13f05e38c987b39bb012e21",
         "ordinal": 77,
         "composition": "field-type",
         "name": "pem",
@@ -313,7 +313,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000026",
-        "content_hash": "\\x769476a36f57656b3b18f5ba706bd65f889d5526e9a058f157ad1459299a9745",
+        "content_hash": "769476a36f57656b3b18f5ba706bd65f889d5526e9a058f157ad1459299a9745",
         "ordinal": 80,
         "composition": "field-type",
         "name": "pdf",
@@ -325,7 +325,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000027",
-        "content_hash": "\\x7051d2693535d68fe5904b60002cd1fbdd63f8616ca5b0f346ce620a6d6a03a0",
+        "content_hash": "7051d2693535d68fe5904b60002cd1fbdd63f8616ca5b0f346ce620a6d6a03a0",
         "ordinal": 83,
         "composition": "field-type",
         "name": "archive",
@@ -337,7 +337,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000030",
-        "content_hash": "\\x7313940829f7f75163340c1913d41b81e4e3e97ad34d6a10e03b739896091d22",
+        "content_hash": "7313940829f7f75163340c1913d41b81e4e3e97ad34d6a10e03b739896091d22",
         "ordinal": 86,
         "composition": "field-type",
         "name": "secret",
@@ -349,7 +349,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000031",
-        "content_hash": "\\x9eecbfc5a03c2b4a70dd0318f6bf759a1a89bf70df70f18fc18e15aa0fded302",
+        "content_hash": "9eecbfc5a03c2b4a70dd0318f6bf759a1a89bf70df70f18fc18e15aa0fded302",
         "ordinal": 89,
         "composition": "field-type",
         "name": "embedding",
@@ -361,7 +361,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000032",
-        "content_hash": "\\x9fba85bfe5028de8eefe0ecf7b397f992fa0c1521550648d8e9825e7a9452586",
+        "content_hash": "9fba85bfe5028de8eefe0ecf7b397f992fa0c1521550648d8e9825e7a9452586",
         "ordinal": 92,
         "composition": "field-type",
         "name": "acl",
@@ -373,7 +373,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000033",
-        "content_hash": "\\x8fea91ecacfee98b471b66fd6be30fa219ba8569434f01a640f5b6a1de227f8e",
+        "content_hash": "8fea91ecacfee98b471b66fd6be30fa219ba8569434f01a640f5b6a1de227f8e",
         "ordinal": 95,
         "composition": "field-type",
         "name": "version",
@@ -385,7 +385,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000034",
-        "content_hash": "\\x7923f5baf8e0b6fd0da268e03b6898a11036c2a7a967540bd6db670353e47a21",
+        "content_hash": "7923f5baf8e0b6fd0da268e03b6898a11036c2a7a967540bd6db670353e47a21",
         "ordinal": 98,
         "composition": "field-type",
         "name": "platform",
@@ -397,7 +397,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000035",
-        "content_hash": "\\x7bb5296173ea39204c03dc000deb5a473a5bdc1e5097e58475ea254c3df975da",
+        "content_hash": "7bb5296173ea39204c03dc000deb5a473a5bdc1e5097e58475ea254c3df975da",
         "ordinal": 101,
         "composition": "field-type",
         "name": "json",
@@ -409,7 +409,7 @@
     },
     {
         "unid": "00000000-0000-0000-0002-000000000001",
-        "content_hash": "\\x85c2132056834f7769e0ccd5d9c66ba7b62d1043d491a40434e4e04a07ce6a63",
+        "content_hash": "85c2132056834f7769e0ccd5d9c66ba7b62d1043d491a40434e4e04a07ce6a63",
         "ordinal": 104,
         "composition": "composition",
         "name": "principal",
@@ -421,7 +421,7 @@
     },
     {
         "unid": "00000000-0000-0000-0002-000000000002",
-        "content_hash": "\\x6dbc2fb9465c7e3c56c98c6ef69d11d4f23e69c2672af49f652e5e77d86bb18a",
+        "content_hash": "6dbc2fb9465c7e3c56c98c6ef69d11d4f23e69c2672af49f652e5e77d86bb18a",
         "ordinal": 107,
         "composition": "composition",
         "name": "group",
@@ -433,7 +433,7 @@
     },
     {
         "unid": "00000000-0000-0000-0002-000000000003",
-        "content_hash": "\\xab903e02cd0ec2a877fe29724b88d7e9e4971f369fa64291e90f9b806d8b24f1",
+        "content_hash": "ab903e02cd0ec2a877fe29724b88d7e9e4971f369fa64291e90f9b806d8b24f1",
         "ordinal": 110,
         "composition": "composition",
         "name": "field-type",
@@ -445,7 +445,7 @@
     },
     {
         "unid": "00000000-0000-0000-0002-000000000004",
-        "content_hash": "\\x822fe5eb386594bf36963a7bec7a6d39eb88dde51fb0ce98334d34ab8bc78194",
+        "content_hash": "822fe5eb386594bf36963a7bec7a6d39eb88dde51fb0ce98334d34ab8bc78194",
         "ordinal": 113,
         "composition": "composition",
         "name": "composition",
@@ -457,7 +457,7 @@
     },
     {
         "unid": "00000000-0000-0000-0002-000000000005",
-        "content_hash": "\\x9b5f71e9c115df987ff86a5979b64d7d55258f702e5a418731d8dcc1115706ec",
+        "content_hash": "9b5f71e9c115df987ff86a5979b64d7d55258f702e5a418731d8dcc1115706ec",
         "ordinal": 116,
         "composition": "composition",
         "name": "plugin",
@@ -469,7 +469,7 @@
     },
     {
         "unid": "00000000-0000-0000-0002-000000000006",
-        "content_hash": "\\x58a59f8d52fec58d00e9d93c720808494a3daeeeabffb2128a923a4819189e8e",
+        "content_hash": "58a59f8d52fec58d00e9d93c720808494a3daeeeabffb2128a923a4819189e8e",
         "ordinal": 119,
         "composition": "composition",
         "name": "kernel",
@@ -481,7 +481,7 @@
     },
     {
         "unid": "00000000-0000-0000-0002-000000000007",
-        "content_hash": "\\x593b82aa9030d667810330e9f87ec020ee23c30ca2c058f8dd8b1027c0a5ee28",
+        "content_hash": "593b82aa9030d667810330e9f87ec020ee23c30ca2c058f8dd8b1027c0a5ee28",
         "ordinal": 122,
         "composition": "composition",
         "name": "secret",
@@ -493,7 +493,7 @@
     },
     {
         "unid": "00000000-0000-0000-0002-000000000008",
-        "content_hash": "\\x20181b983a08bca592cc6489056f6ead7121465989d035e5217d78d06280915d",
+        "content_hash": "20181b983a08bca592cc6489056f6ead7121465989d035e5217d78d06280915d",
         "ordinal": 125,
         "composition": "composition",
         "name": "memory",
@@ -505,7 +505,7 @@
     },
     {
         "unid": "00000000-0000-0000-0002-000000000009",
-        "content_hash": "\\x11d155c83b95bb062839a93ab65a61cf0fc09d195e41ca09c7fbb376d952bbbe",
+        "content_hash": "11d155c83b95bb062839a93ab65a61cf0fc09d195e41ca09c7fbb376d952bbbe",
         "ordinal": 128,
         "composition": "composition",
         "name": "message",
@@ -517,7 +517,7 @@
     },
     {
         "unid": "00000000-0000-0000-0002-000000000010",
-        "content_hash": "\\x4a4c74944bf5cdf9ed8f11b46f365cb360d1713230c4aa566abc8afb1529108d",
+        "content_hash": "4a4c74944bf5cdf9ed8f11b46f365cb360d1713230c4aa566abc8afb1529108d",
         "ordinal": 131,
         "composition": "composition",
         "name": "machine",
@@ -529,7 +529,7 @@
     },
     {
         "unid": "00000000-0000-0000-0002-000000000013",
-        "content_hash": "\\x31bfdaaf92a811333d8bbb8b37c2edd0f3a45b441065775890d161e114f45e9f",
+        "content_hash": "31bfdaaf92a811333d8bbb8b37c2edd0f3a45b441065775890d161e114f45e9f",
         "ordinal": 134,
         "composition": "composition",
         "name": "dns-entry",
@@ -541,7 +541,7 @@
     },
     {
         "unid": "00000000-0000-0000-0002-000000000014",
-        "content_hash": "\\x496d7c268e09668e230567613e8ecc0f69aa3a549653b2ef2c4020fe94be4626",
+        "content_hash": "496d7c268e09668e230567613e8ecc0f69aa3a549653b2ef2c4020fe94be4626",
         "ordinal": 137,
         "composition": "composition",
         "name": "entity",
@@ -553,7 +553,7 @@
     },
     {
         "unid": "00000000-0000-0000-0002-000000000015",
-        "content_hash": "\\x51930bd8bda506857c024cb2ed40473f5f3b3df718f5b96743193678afb6c4d8",
+        "content_hash": "51930bd8bda506857c024cb2ed40473f5f3b3df718f5b96743193678afb6c4d8",
         "ordinal": 140,
         "composition": "composition",
         "name": "perception",
@@ -565,7 +565,7 @@
     },
     {
         "unid": "00000000-0000-0000-0002-000000000016",
-        "content_hash": "\\xa99500f09f2fe62e43d1d45dc548413d50d42b44c9d1dc4b993f29abb69bbd53",
+        "content_hash": "a99500f09f2fe62e43d1d45dc548413d50d42b44c9d1dc4b993f29abb69bbd53",
         "ordinal": 143,
         "composition": "composition",
         "name": "frame",
@@ -577,7 +577,7 @@
     },
     {
         "unid": "00000000-0000-0000-0002-000000000017",
-        "content_hash": "\\x2860a84c54d763d81865aca52ddd5300dbbef89675eea33f12fe17a91035fcd0",
+        "content_hash": "2860a84c54d763d81865aca52ddd5300dbbef89675eea33f12fe17a91035fcd0",
         "ordinal": 146,
         "composition": "composition",
         "name": "peer",
@@ -589,7 +589,7 @@
     },
     {
         "unid": "deadbeef-0000-0000-0000-000000000001",
-        "content_hash": "\\x2d53ad2e8942b5f8c7b43ca61d356e1b4e252ba0ade538628c23a51f7a4ff0b6",
+        "content_hash": "2d53ad2e8942b5f8c7b43ca61d356e1b4e252ba0ade538628c23a51f7a4ff0b6",
         "ordinal": 151,
         "composition": "kernel",
         "name": "babel",
@@ -601,7 +601,7 @@
     },
     {
         "unid": "eeeeeeee-0000-0000-0000-000000000001",
-        "content_hash": "\\x703ecb55487fd538081742d95c80d00866cdd728a2c3d1909a7245937b76b1eb",
+        "content_hash": "703ecb55487fd538081742d95c80d00866cdd728a2c3d1909a7245937b76b1eb",
         "ordinal": 154,
         "composition": "extension",
         "name": "plpython3u",
@@ -613,7 +613,7 @@
     },
     {
         "unid": "eeeeeeee-0000-0000-0000-000000000002",
-        "content_hash": "\\x14865b756a02ed01128cb6ce6243dce7ff63e72facc66093089447084a370a4d",
+        "content_hash": "14865b756a02ed01128cb6ce6243dce7ff63e72facc66093089447084a370a4d",
         "ordinal": 157,
         "composition": "plugin",
         "name": "hello_os",
@@ -625,7 +625,7 @@
     },
     {
         "unid": "01a38558-38df-42df-b18a-c5478168d4f2",
-        "content_hash": "\\x8f1270e8c6b462c1a6ae9af095004ec76cb430a6240edbc77a14532bf1d10a02",
+        "content_hash": "8f1270e8c6b462c1a6ae9af095004ec76cb430a6240edbc77a14532bf1d10a02",
         "ordinal": 159,
         "composition": "memory",
         "name": "self-awareness",
@@ -637,7 +637,7 @@
     },
     {
         "unid": "dddddddd-0000-0000-0000-000000000001",
-        "content_hash": "\\xf3e9f99f25e55a56a38af7baba284a1d8c391147a2736624445e2f40f3d117a4",
+        "content_hash": "f3e9f99f25e55a56a38af7baba284a1d8c391147a2736624445e2f40f3d117a4",
         "ordinal": 162,
         "composition": "plugin",
         "name": "docker-cli",
@@ -649,7 +649,7 @@
     },
     {
         "unid": "dddddddd-0000-0000-0000-000000000002",
-        "content_hash": "\\xa21015bde6fe5298f6a7bb5e9525a84e0f01b4fec5ba50ad1697c6030256ac69",
+        "content_hash": "a21015bde6fe5298f6a7bb5e9525a84e0f01b4fec5ba50ad1697c6030256ac69",
         "ordinal": 165,
         "composition": "plugin",
         "name": "claude-code",
@@ -661,7 +661,7 @@
     },
     {
         "unid": "aa000000-0000-0000-0000-00000000aa01",
-        "content_hash": "\\xa02caf259dc786e7bfc32be3442c26cb8bd230a4988f4044b04b92e7f62a2bf1",
+        "content_hash": "a02caf259dc786e7bfc32be3442c26cb8bd230a4988f4044b04b92e7f62a2bf1",
         "ordinal": 168,
         "composition": "principal",
         "name": "matt",
@@ -673,7 +673,7 @@
     },
     {
         "unid": "aa000000-0000-0000-0000-00000000aa02",
-        "content_hash": "\\x3cef6098975fd618ca0e6c353b9783912f0c1ae72447989a60c58eb763297cff",
+        "content_hash": "3cef6098975fd618ca0e6c353b9783912f0c1ae72447989a60c58eb763297cff",
         "ordinal": 171,
         "composition": "secret",
         "name": "claude-oauth",
@@ -685,7 +685,7 @@
     },
     {
         "unid": "aa000000-0000-0000-0000-00000000aa03",
-        "content_hash": "\\xaf03baf3042e3776cc23a30d5ddaae97f85b938406075dfc1dbb1c6208aa7df3",
+        "content_hash": "af03baf3042e3776cc23a30d5ddaae97f85b938406075dfc1dbb1c6208aa7df3",
         "ordinal": 174,
         "composition": "plugin",
         "name": "claude-settings",
@@ -697,7 +697,7 @@
     },
     {
         "unid": "aa000000-0000-0000-0000-00000000aa04",
-        "content_hash": "\\xddd9b59ba61e96a36115097a0154fe3c404f59b95ac6dec2179ec0be2a84a1bd",
+        "content_hash": "ddd9b59ba61e96a36115097a0154fe3c404f59b95ac6dec2179ec0be2a84a1bd",
         "ordinal": 177,
         "composition": "memory",
         "name": "claude-instructions-global",
@@ -709,7 +709,7 @@
     },
     {
         "unid": "aa000000-0000-0000-0000-00000000aa05",
-        "content_hash": "\\xa76566776d8f222d660e92be48dfd6e1279aa405d7faaf5760d265f7f3d7a7e7",
+        "content_hash": "a76566776d8f222d660e92be48dfd6e1279aa405d7faaf5760d265f7f3d7a7e7",
         "ordinal": 179,
         "composition": "memory",
         "name": "claude-instructions-project",
@@ -721,7 +721,7 @@
     },
     {
         "unid": "aa000000-0000-0000-0000-00000000aa06",
-        "content_hash": "\\x1b3844ced433529fb8988fa01d767a338d0d448d34c7cdcb515e7ea9ad1f76b7",
+        "content_hash": "1b3844ced433529fb8988fa01d767a338d0d448d34c7cdcb515e7ea9ad1f76b7",
         "ordinal": 183,
         "composition": "plugin",
         "name": "mcp-cortex",
@@ -733,7 +733,7 @@
     },
     {
         "unid": "aa000000-0000-0000-0000-00000000aa07",
-        "content_hash": "\\x30943dba940b642a4c118989f8d0527723f932a65cfbe95577b4f93b791bdff6",
+        "content_hash": "30943dba940b642a4c118989f8d0527723f932a65cfbe95577b4f93b791bdff6",
         "ordinal": 185,
         "composition": "plugin",
         "name": "claude-hooks",
@@ -745,7 +745,7 @@
     },
     {
         "unid": "ea18cc5a-3a14-44f4-941f-cb724ca62057",
-        "content_hash": "\\x4292dbd0cd5ee550b0f8909959f303b17eefb94f42e0f7291812fab149ea025a",
+        "content_hash": "4292dbd0cd5ee550b0f8909959f303b17eefb94f42e0f7291812fab149ea025a",
         "ordinal": 190,
         "composition": "file",
         "name": "uname",
@@ -757,7 +757,7 @@
     },
     {
         "unid": "26ca6c1d-7c88-438a-aacc-6eb2fd6c17b4",
-        "content_hash": "\\x41bc92811984a808efd31df5d2f5a41d1c2a4d36b9d6bac070ee390014d5e9b8",
+        "content_hash": "41bc92811984a808efd31df5d2f5a41d1c2a4d36b9d6bac070ee390014d5e9b8",
         "ordinal": 192,
         "composition": "field-type",
         "name": "path",
@@ -769,7 +769,7 @@
     },
     {
         "unid": "bd02d198-9b82-4fbb-b2e1-e9098a9412ca",
-        "content_hash": "\\x09d0544b66e7e930a9c5e8e455eafe992a81e9d88a27fad07cdc17a88192b0ab",
+        "content_hash": "09d0544b66e7e930a9c5e8e455eafe992a81e9d88a27fad07cdc17a88192b0ab",
         "ordinal": 194,
         "composition": "field-type",
         "name": "mimetype",
@@ -781,7 +781,7 @@
     },
     {
         "unid": "b7de954d-888d-4707-bb1d-9fe6063fbf8a",
-        "content_hash": "\\xba3f09815a84e97254d7116ca6cc47d39838a5e5063b7427b385150b361a2547",
+        "content_hash": "ba3f09815a84e97254d7116ca6cc47d39838a5e5063b7427b385150b361a2547",
         "ordinal": 196,
         "composition": "field-type",
         "name": "argv",
@@ -793,7 +793,7 @@
     },
     {
         "unid": "e622827a-bcad-4114-a3ae-a51ee9f456d8",
-        "content_hash": "\\x4bce770671373ef413cb896285d6bba85e7968e5cfa59efe0691c26223602372",
+        "content_hash": "4bce770671373ef413cb896285d6bba85e7968e5cfa59efe0691c26223602372",
         "ordinal": 198,
         "composition": "field-type",
         "name": "environ",
@@ -805,7 +805,7 @@
     },
     {
         "unid": "dec02e38-2843-4d59-a4d5-cb172403b6c7",
-        "content_hash": "\\x63c0d97770b4dba0cc60011ea780c913032c45d0c873a7183da011a39ba5bc41",
+        "content_hash": "63c0d97770b4dba0cc60011ea780c913032c45d0c873a7183da011a39ba5bc41",
         "ordinal": 200,
         "composition": "field-type",
         "name": "exitcode",
@@ -817,7 +817,7 @@
     },
     {
         "unid": "6c1fb026-b784-49a3-8451-d177f4b6c0f0",
-        "content_hash": "\\x3004d3095d04c0fe35c42e00f0ad4cf10f81ef48ad6765eb6d809fee2154cd0b",
+        "content_hash": "3004d3095d04c0fe35c42e00f0ad4cf10f81ef48ad6765eb6d809fee2154cd0b",
         "ordinal": 202,
         "composition": "field-type",
         "name": "stream",
@@ -829,7 +829,7 @@
     },
     {
         "unid": "4204a510-85ef-433f-8a45-66d6a8b0f401",
-        "content_hash": "\\xe70d8d17e77fa00e1fc09b0e7b9c51e0580bb0b1e43438ee718b2972e9e003a0",
+        "content_hash": "e70d8d17e77fa00e1fc09b0e7b9c51e0580bb0b1e43438ee718b2972e9e003a0",
         "ordinal": 204,
         "composition": "field-type",
         "name": "pid",
@@ -841,7 +841,7 @@
     },
     {
         "unid": "3e581df8-466d-419c-a63f-9bc71f44590b",
-        "content_hash": "\\x37d619566107f308d9323f431392d4940294ad028d192d152299b14a076b614d",
+        "content_hash": "37d619566107f308d9323f431392d4940294ad028d192d152299b14a076b614d",
         "ordinal": 206,
         "composition": "field-type",
         "name": "permission",
@@ -853,7 +853,7 @@
     },
     {
         "unid": "f90adc82-a954-466e-b550-3f383fea0fe6",
-        "content_hash": "\\x1171d8c71c1f8f2165607e553970d895da60605cc67c9507e73e9e09da2cc704",
+        "content_hash": "1171d8c71c1f8f2165607e553970d895da60605cc67c9507e73e9e09da2cc704",
         "ordinal": 208,
         "composition": "composition",
         "name": "file",
@@ -865,7 +865,7 @@
     },
     {
         "unid": "02c1d0d0-ebaa-406d-971c-358799ac810d",
-        "content_hash": "\\x3398128aa961b36c85ee8ee8a1925ea1143d7cf6bc541d5517e055aa5e182a99",
+        "content_hash": "3398128aa961b36c85ee8ee8a1925ea1143d7cf6bc541d5517e055aa5e182a99",
         "ordinal": 210,
         "composition": "composition",
         "name": "directory",
@@ -877,7 +877,7 @@
     },
     {
         "unid": "b9a68afc-ca88-452d-b572-f540960ddf3c",
-        "content_hash": "\\xd9209b2ad1b80e84b63b049dda7a7d94de6b9bf52eea9f56731d9cc57d00bd6a",
+        "content_hash": "d9209b2ad1b80e84b63b049dda7a7d94de6b9bf52eea9f56731d9cc57d00bd6a",
         "ordinal": 212,
         "composition": "composition",
         "name": "process",
@@ -889,7 +889,7 @@
     },
     {
         "unid": "d07c3ede-0cb6-4476-8c0a-645153680111",
-        "content_hash": "\\xf415673f092812125c2fb0723ef07cbdb8ad8d06941b3e7d2458dadad0f9befb",
+        "content_hash": "f415673f092812125c2fb0723ef07cbdb8ad8d06941b3e7d2458dadad0f9befb",
         "ordinal": 214,
         "composition": "composition",
         "name": "package",
@@ -901,7 +901,7 @@
     },
     {
         "unid": "feb1cbb6-b98f-4f0c-87a1-c2ab49f244f8",
-        "content_hash": "\\xc2ab3891c903cb36537eef2ccc67abe8f7c9d754881f409bc46f20cdbda4e62a",
+        "content_hash": "c2ab3891c903cb36537eef2ccc67abe8f7c9d754881f409bc46f20cdbda4e62a",
         "ordinal": 216,
         "composition": "composition",
         "name": "service",
@@ -913,7 +913,7 @@
     },
     {
         "unid": "f5e38ec4-a5a7-461d-ac7b-e2ca44248a05",
-        "content_hash": "\\xe37210d734f9fbae4ade5eea8190b05410e8480798b7f3337cc50338e790bd67",
+        "content_hash": "e37210d734f9fbae4ade5eea8190b05410e8480798b7f3337cc50338e790bd67",
         "ordinal": 218,
         "composition": "composition",
         "name": "session",
@@ -925,7 +925,7 @@
     },
     {
         "unid": "b24d7f9e-1828-480f-888d-87efe7b32a08",
-        "content_hash": "\\x9d5164e77a8310545adefcf47253e9aaec216d04a43306907cb655a0fffc06b4",
+        "content_hash": "9d5164e77a8310545adefcf47253e9aaec216d04a43306907cb655a0fffc06b4",
         "ordinal": 221,
         "composition": "file",
         "name": "node",
@@ -937,7 +937,7 @@
     },
     {
         "unid": "11ee4649-3b06-40f7-bf60-d412516b7269",
-        "content_hash": "\\x5ece1043d5f25c906539522544ebd4aa324e3b73271d55af2e0a08a111bdcafa",
+        "content_hash": "5ece1043d5f25c906539522544ebd4aa324e3b73271d55af2e0a08a111bdcafa",
         "ordinal": 227,
         "composition": "file",
         "name": "claude.exe",
@@ -949,7 +949,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000050",
-        "content_hash": "\\x31d29698dd029a0f760bf0ea03d3df4000a888ea4a88f97ee6a1fe38d4176298",
+        "content_hash": "31d29698dd029a0f760bf0ea03d3df4000a888ea4a88f97ee6a1fe38d4176298",
         "ordinal": 230,
         "composition": "field_type",
         "name": "endpoint",
@@ -961,7 +961,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000051",
-        "content_hash": "\\x094500c22235973e6873ff6a6d927e17ed4aeb845cd3cd9b66129b5690bceaef",
+        "content_hash": "094500c22235973e6873ff6a6d927e17ed4aeb845cd3cd9b66129b5690bceaef",
         "ordinal": 232,
         "composition": "field_type",
         "name": "protocol",
@@ -973,7 +973,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000052",
-        "content_hash": "\\xbd91df04acd42662bc20e439f2dbce3870ee8e2889d30b44e4c1d1e172b3e8c8",
+        "content_hash": "bd91df04acd42662bc20e439f2dbce3870ee8e2889d30b44e4c1d1e172b3e8c8",
         "ordinal": 234,
         "composition": "field_type",
         "name": "frequency",
@@ -985,7 +985,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000053",
-        "content_hash": "\\x6ab802ed4228932b0d4a2d1440175e0b5285f0bc04d694c8db20618d90244506",
+        "content_hash": "6ab802ed4228932b0d4a2d1440175e0b5285f0bc04d694c8db20618d90244506",
         "ordinal": 236,
         "composition": "field_type",
         "name": "filter",
@@ -997,7 +997,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000054",
-        "content_hash": "\\x3b412b3c52aa181da5bd636c154e2e19d2b50cbb1ab41cfb31974dbe9788d532",
+        "content_hash": "3b412b3c52aa181da5bd636c154e2e19d2b50cbb1ab41cfb31974dbe9788d532",
         "ordinal": 238,
         "composition": "field_type",
         "name": "compressed",
@@ -1009,7 +1009,7 @@
     },
     {
         "unid": "00000000-0000-0000-0001-000000000055",
-        "content_hash": "\\x0a00e01907418da1850673fe7404f7e6dcb15f8db8de82d33dc8b1b63ba72025",
+        "content_hash": "0a00e01907418da1850673fe7404f7e6dcb15f8db8de82d33dc8b1b63ba72025",
         "ordinal": 240,
         "composition": "field_type",
         "name": "algorithm",
@@ -1021,7 +1021,7 @@
     },
     {
         "unid": "00000000-0000-0000-0002-000000000030",
-        "content_hash": "\\x83dbe605d7a70a913a0f43bde4e79002d4a9f9864831bc92f818dabafb4d8c22",
+        "content_hash": "83dbe605d7a70a913a0f43bde4e79002d4a9f9864831bc92f818dabafb4d8c22",
         "ordinal": 242,
         "composition": "composition",
         "name": "subscription",
@@ -1032,13 +1032,457 @@
         "origin_endpoint": "10.69.0.2"
     },
     {
-        "unid": "36443b84-879e-42e6-b504-62202390ce3c",
-        "content_hash": "\\x3e395527ed160258409fc8293b3d3d253642680b316825ebd17e3dc648dfab34",
-        "ordinal": 244,
+        "unid": "00000000-0000-0000-0001-000000000060",
+        "content_hash": "3cce12355295945a760af1d3b2e49bae878259c6f51b6e5f549efe84d6c222fa",
+        "ordinal": 247,
+        "composition": "field_type",
+        "name": "rate_limit",
+        "subscriber": [
+            "SYSTEM"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "00000000-0000-0000-0001-000000000061",
+        "content_hash": "a0ee205e19c4474c12656af5b4b6fb18d9bc18ad16a6863a8532bdedd480be28",
+        "ordinal": 249,
+        "composition": "field_type",
+        "name": "max_size",
+        "subscriber": [
+            "SYSTEM"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "00000000-0000-0000-0001-000000000062",
+        "content_hash": "0fd2ca734304ff91765836fcc3b9705750d3d8e3a0c1d61fe13f17cc302263b1",
+        "ordinal": 251,
+        "composition": "field_type",
+        "name": "backpressure",
+        "subscriber": [
+            "SYSTEM"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "00000000-0000-0000-0001-000000000063",
+        "content_hash": "701a151ad7a1c07e25561d8c6f2aa5c24cffbf1ee219e9be1e118843797600e9",
+        "ordinal": 253,
+        "composition": "field_type",
+        "name": "ttl",
+        "subscriber": [
+            "SYSTEM"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "00000000-0000-0000-0001-000000000064",
+        "content_hash": "def1bc64c73e2bc6e7c1551d16ff3b1307cc699ea97a3511e043aa248b2b6d4f",
+        "ordinal": 255,
+        "composition": "field_type",
+        "name": "gate",
+        "subscriber": [
+            "SYSTEM"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "00000000-0000-0000-0001-000000000065",
+        "content_hash": "4a302dad2762da27b5e27d25115da331bde3668b3e0b33b0d0054a3f1a5842d5",
+        "ordinal": 257,
+        "composition": "field_type",
+        "name": "dedup",
+        "subscriber": [
+            "SYSTEM"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "00000000-0000-0000-0001-000000000066",
+        "content_hash": "912f9f30434890c51f9a1cf05a5bcad9c497c1fc954be3374887621f74f4898f",
+        "ordinal": 259,
+        "composition": "field_type",
+        "name": "ack_required",
+        "subscriber": [
+            "SYSTEM"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "00000000-0000-0000-0001-000000000067",
+        "content_hash": "76fdcdb829793c8d997c1531f3ed644e9c9c36a069a50eb4963f96fd9fdacd75",
+        "ordinal": 261,
+        "composition": "field_type",
+        "name": "priority",
+        "subscriber": [
+            "SYSTEM"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "00000000-0000-0000-0002-000000000031",
+        "content_hash": "69efa35ef917f4a64974d3aabf361d89617c606048b0244a570ba410e87b43f1",
+        "ordinal": 263,
+        "composition": "composition",
+        "name": "emission",
+        "subscriber": [
+            "SYSTEM"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "00000000-0000-0000-0002-000000000032",
+        "content_hash": "61bc468a4f2364a170d021d5bf820f386defc5768ee5360ecc9d714a9b75517b",
+        "ordinal": 265,
+        "composition": "composition",
+        "name": "pipe_state",
+        "subscriber": [
+            "SYSTEM"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "3acbd8ea-d1ed-49c6-b770-8aa1fcb24393",
+        "content_hash": "6bd73b095f07879905d60c0ff6085d55dbc064c2bdce3e82946cdf09aa5cb081",
+        "ordinal": 275,
+        "composition": "secret",
+        "name": "api-key-test",
+        "subscriber": [
+            "SYSTEM"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "2befd917-668d-489a-ab8d-65d569042478",
+        "content_hash": "c82a65d310f6c18b7b99fa36cc9bcc60e275a4902babb0b6918dfe6d5b114f62",
+        "ordinal": 279,
         "composition": "subscription",
         "name": null,
         "subscriber": [
             "SYSTEM"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "17485384-fd10-4f34-a141-afdfb7f68d33",
+        "content_hash": "0b5ab77710d7f93d15b2c7c69d3842f675d519de7db2f460dc5605739f5a9081",
+        "ordinal": 286,
+        "composition": "file",
+        "name": "node.zlib",
+        "subscriber": [
+            "SYSTEM"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "07bbdbbe-e64d-486a-a182-0006413c2587",
+        "content_hash": "7632ef4f314644f19e1bca0d6c42ea68c0c06f6a9b04d0872d2a81b6b28a7e7b",
+        "ordinal": 297,
+        "composition": "file",
+        "name": "test-binary-1",
+        "subscriber": [
+            "SYSTEM"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "84c6cbfe-24d1-497b-92f9-f05b13e3d14e",
+        "content_hash": "e03d9fa2fc59f94516a2d675cf6b0dc7a0e54d79ffe9ad37e626cabbe449b503",
+        "ordinal": 302,
+        "composition": "file",
+        "name": "test-binary-1.zlib",
+        "subscriber": [
+            "SYSTEM"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "64abb797-9ab5-4ceb-95af-8a716f47578a",
+        "content_hash": "a541c01e463242bd621e198ab10f368927cbfa39587afad63ddc0af5d34d965a",
+        "ordinal": 311,
+        "composition": "file",
+        "name": "blast-2",
+        "subscriber": [
+            "SYSTEM"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "164c5a23-3581-4547-ae9d-8857d34abd24",
+        "content_hash": "41771f317125e3e2f829dd9b7e9ab450fcdd0c7ac55f39f27e3956d4e37f67e7",
+        "ordinal": 313,
+        "composition": "file",
+        "name": "blast-3",
+        "subscriber": [
+            "SYSTEM"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "221e306e-60f3-4a7c-b84d-2ae0df0d106f",
+        "content_hash": "44cd446e8d77981cf518151121e30ea6812d3bc94d02994e291222e0e95b4be1",
+        "ordinal": 315,
+        "composition": "file",
+        "name": "blast-4",
+        "subscriber": [
+            "SYSTEM"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "c4cf71dc-07fa-47c8-a9b8-f25b9a6473d4",
+        "content_hash": "2ab5db51b37a1b50f0323813192184b681767778be89c3825836685719bc2121",
+        "ordinal": 320,
+        "composition": "file",
+        "name": "blast-2.zlib",
+        "subscriber": [
+            "SYSTEM"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "2bef7808-a9ef-417d-bb84-aebf43df04e0",
+        "content_hash": "777e87d9ed76f1a34320f55378e0fd46cd37cb04c21a8c7bc31f189c31134c9e",
+        "ordinal": 330,
+        "composition": "emission",
+        "name": null,
+        "subscriber": [
+            "SYSTEM"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "389f208d-8f19-49da-a053-9811f940ba23",
+        "content_hash": "5da48a0574ceef8e1f1214177f5b7d2d42fbac2c45c8fff252cb3cd153d59ae2",
+        "ordinal": 338,
+        "composition": "emission",
+        "name": null,
+        "subscriber": [
+            "SYSTEM"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "38652daa-9bd2-4069-9292-2f7f0ef0d5d7",
+        "content_hash": "a7565c89c88793de1285b2600d91b17e9756d034b8bbf65c78d60b12965daea6",
+        "ordinal": 342,
+        "composition": "pipe_state",
+        "name": null,
+        "subscriber": [
+            "SYSTEM"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "00000000-0000-0000-0001-000000000070",
+        "content_hash": "7861502f176872524a0821b9977ecd57692ae67f0541710a8fd04fa4ca79e878",
+        "ordinal": 345,
+        "composition": "field_type",
+        "name": "governance",
+        "subscriber": [
+            "SYSTEM"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "36443b84-879e-42e6-b504-62202390ce3c",
+        "content_hash": "482164673603ae5cfb1844a23646ece639f622317cef9bc039880e0b3226519b",
+        "ordinal": 346,
+        "composition": "subscription",
+        "name": null,
+        "subscriber": [
+            "SYSTEM"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "d5384585-b210-4ba9-934e-ef279b555d55",
+        "content_hash": "52375c43c684ad2535de8bd7dc18a37f30e1ac97f27b9249d899685c704eb92d",
+        "ordinal": 347,
+        "composition": "pipe_state",
+        "name": null,
+        "subscriber": [
+            "SYSTEM"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "5f40880a-0cb8-4207-9a0c-e04b853656bd",
+        "content_hash": "1fdba81d6d713740db3f7b591ede8c42b7cbeb9fbe97f856035e504d27cf4ebb",
+        "ordinal": 351,
+        "composition": "file",
+        "name": "rr-1 - Clockwork Infinity.mp3",
+        "subscriber": [
+            "SYSTEM",
+            "joey"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "c2bfa6c4-376d-4085-9144-5483c11b5e0a",
+        "content_hash": "ce9518ffd768ebe11fbe2254749ba58a9ba7e184e39ccd4670ef83248b17d12a",
+        "ordinal": 355,
+        "composition": "file",
+        "name": "rr-2 - Waiting for the Waymo.mp3",
+        "subscriber": [
+            "SYSTEM",
+            "joey"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "7198b452-e3f3-47cd-9079-b4f7383113c6",
+        "content_hash": "d3bd13310d42f04edf4744c0f19e257499c8bce97838d6d415df9bdc09d34081",
+        "ordinal": 359,
+        "composition": "file",
+        "name": "rr-2 - Today is Yesterday x Make 'em say Errr.mp3",
+        "subscriber": [
+            "SYSTEM",
+            "joey"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "5d614e98-210b-44cc-8dd2-a2889e5b4f3c",
+        "content_hash": "35e10eae760eec1217793f0ccb6bf73c47b4dff1a3d88019acacc53cf6545948",
+        "ordinal": 363,
+        "composition": "file",
+        "name": "rr-3 - I Got Hosts.mp3",
+        "subscriber": [
+            "SYSTEM",
+            "joey"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "d82f9889-2de0-40ea-b89f-434ae2fb051b",
+        "content_hash": "061da8bb2daf3d971005f3c8e3beb3dd71183e617ab71479fc148576d268211e",
+        "ordinal": 367,
+        "composition": "file",
+        "name": "rr-4 - Fender Bender.mp3",
+        "subscriber": [
+            "SYSTEM",
+            "joey"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "c346b6d3-90b6-4324-8c26-7c399c2f2bd3",
+        "content_hash": "506da2677e68f349d17a76c32a25fa030fcce53130d39d16b0c18fdebe68b637",
+        "ordinal": 371,
+        "composition": "file",
+        "name": "rr-5 - Goodtime.mp3",
+        "subscriber": [
+            "SYSTEM",
+            "joey"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "7bb3d50f-d113-4551-9ab8-db1f0fc21a5e",
+        "content_hash": "8a0ae5e210173d632b53c1a69a18f9a7aa133c81d8494ca56ff39fa3ce2fbe0f",
+        "ordinal": 375,
+        "composition": "file",
+        "name": "rr-6 - Treading Water.mp3",
+        "subscriber": [
+            "SYSTEM",
+            "joey"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "f9a98b2e-89cf-442d-a8d6-67c426db72d0",
+        "content_hash": "2abaeb8bb6888965b538ce87252e24b0bac4a3b30c2e94f2dc2138638d6d5a15",
+        "ordinal": 379,
+        "composition": "file",
+        "name": "rr-8 - Rogue Machine x Goodtime.mp3",
+        "subscriber": [
+            "SYSTEM",
+            "joey"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "22b6beb0-81ef-4270-adba-91e743e3afbd",
+        "content_hash": "0149e25cb64165b3abe2dfc57f1a9ad2afaaba2897bef4b436d98da2b80e4748",
+        "ordinal": 383,
+        "composition": "file",
+        "name": "rr-9 - Barbra Streisand x Eduardo Saverin.mp3",
+        "subscriber": [
+            "SYSTEM",
+            "joey"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "3562d401-42d3-47cd-b20d-90ced314c6f7",
+        "content_hash": "4121d6b9865b550949b16325aece0f772deb3f70beef4922e527764f08025545",
+        "ordinal": 387,
+        "composition": "file",
+        "name": "rr-10 - Rock Lobster.mp3",
+        "subscriber": [
+            "SYSTEM",
+            "joey"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "7741245c-1871-4ba1-b682-164c58d72272",
+        "content_hash": "5db929374d7da0efcc112d0597a2ec3abf980a3f9007257601f728acda0930f8",
+        "ordinal": 391,
+        "composition": "file",
+        "name": "rr-11 - Orange Chicken.mp3",
+        "subscriber": [
+            "SYSTEM",
+            "joey"
+        ],
+        "origin_peer": "mythserv1-radiant",
+        "origin_endpoint": "10.69.0.2"
+    },
+    {
+        "unid": "0105acc2-3dcf-446e-8afd-1b174c537909",
+        "content_hash": "e01dbad2da0da08ae987e4918704d12f4ec3ca56ed7263dc626d2851f3eda0d6",
+        "ordinal": 394,
+        "composition": "package",
+        "name": "Robots and Remixes",
+        "subscriber": [
+            "SYSTEM",
+            "joey"
         ],
         "origin_peer": "mythserv1-radiant",
         "origin_endpoint": "10.69.0.2"
