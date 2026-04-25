@@ -1,0 +1,531 @@
+[
+  {
+    "unid": "00000000-0000-0000-0000-000000000001",
+    "content_hash": "7a9f3caaf228d7c4fd0f4b2a7ffef522b93b7aeeaee183f0da98b4131d1c4924",
+    "ordinal": 2,
+    "composition": "principal",
+    "name": "SYSTEM",
+    "subscriber": [
+      "SYSTEM"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.118057Z"
+  },
+  {
+    "unid": "f78df102-adef-47e4-b0eb-0261bdb53900",
+    "content_hash": "993535da3e130d49343a853f750f24ea0f90b2ea9dfc0b6d74a1541640bc0884",
+    "ordinal": 197,
+    "composition": "principal",
+    "name": "oa:joey",
+    "subscriber": [
+      "SYSTEM",
+      "oa:joey"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.118099Z"
+  },
+  {
+    "unid": "94b91bd8-763c-4913-bcca-fdd1bf16cc0d",
+    "content_hash": "681bee40693e8db8517fa796d9a80f9417e0908f686273d66323ccc58613e7c0",
+    "ordinal": 200,
+    "composition": "machine",
+    "name": "joey-mac",
+    "subscriber": [
+      "SYSTEM",
+      "oa:joey"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.118126Z"
+  },
+  {
+    "unid": "de7276a6-9a0c-4ad7-bf57-b6d21d7b8388",
+    "content_hash": "4ce8f1fa87f903f113e51dfbda73b2c9ccae9fbb3c5196f2519fbe4ac4a0da2d",
+    "ordinal": 202,
+    "composition": "file",
+    "name": "hello.txt",
+    "subscriber": [
+      "SYSTEM",
+      "oa:joey"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.118148Z",
+    "content_type": "utf8"
+  },
+  {
+    "unid": "15f0e365-b1c1-4411-b887-5ff9e88994c8",
+    "content_hash": "37cc7f1af5af5cd285c113602f25f8ff6b38935a57916e8f464937f73d0c2eca",
+    "ordinal": 205,
+    "composition": "file",
+    "name": "genesis_test.sh",
+    "subscriber": [
+      "SYSTEM"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.118171Z",
+    "content_type": "utf8"
+  },
+  {
+    "unid": "7c521475-3afc-4c1e-9fa5-7a2d4ca09010",
+    "content_hash": "b8ea4bda692aac720ddf13ec5006b5edfca4e45663e7f7bb51d4f14b61ad29c5",
+    "ordinal": 209,
+    "composition": "file",
+    "name": "born_on_disk.sh",
+    "subscriber": [
+      "SYSTEM"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.118195Z",
+    "size": 191,
+    "content_type": "base64"
+  },
+  {
+    "unid": "6f975755-0943-4701-84fa-7fc4da19eba5",
+    "content_hash": "b2ee49916220b7eec5e0c164c55e3341855b1fc72bb4bd17e31936be2b7befde",
+    "ordinal": 212,
+    "composition": "process",
+    "name": "genesis_test.sh",
+    "subscriber": [
+      "SYSTEM"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.118220Z"
+  },
+  {
+    "unid": "a0000000-0000-0000-0000-000000000001",
+    "content_hash": "a21d8fe4c7161b84af66857c2c94b49768e7fc19e3f7896acaf40eac0523b41c",
+    "ordinal": 215,
+    "composition": "principal",
+    "name": "oa:joeA",
+    "subscriber": [
+      "SYSTEM",
+      "oa:joey",
+      "oa:joeA"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.118250Z"
+  },
+  {
+    "unid": "a0000000-0000-0000-0000-000000000002",
+    "content_hash": "774b9d0edaa0d99d45b5d0ac0d433e793811c4f829287103d5e06d87057bb268",
+    "ordinal": 218,
+    "composition": "memory",
+    "name": "joeA-charter",
+    "subscriber": [
+      "SYSTEM",
+      "oa:joeA"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.118275Z",
+    "content_type": "utf8"
+  },
+  {
+    "unid": "cf78f57c-a2a3-419d-bc14-297660ecf409",
+    "content_hash": "fad7b6de5838b5a2fb8ccea36308d73a0f82e57085a53ed75ca9db2c6f0474a7",
+    "ordinal": 221,
+    "composition": "memory",
+    "name": "joeA-first-thought",
+    "subscriber": [
+      "SYSTEM",
+      "oa:joey",
+      "oa:joeA"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.118298Z",
+    "content_type": "utf8"
+  },
+  {
+    "unid": "188f0c7e-80f1-4a80-850a-75f28c205861",
+    "content_hash": "ce8fe68ceab07cc1270a279a9ec43a31cb5e5b3e32e203370b69540968a4a7ad",
+    "ordinal": 225,
+    "composition": "file",
+    "name": "docker-cli",
+    "subscriber": [
+      "SYSTEM"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.291120Z",
+    "size": 38528288,
+    "content_type": "base64"
+  },
+  {
+    "unid": "cc000000-0000-0000-0000-000000000001",
+    "content_hash": "0af281a0a8379086a7edbab616748b5685b5a2435e4c2f9bc8f90a23abc75030",
+    "ordinal": 253,
+    "composition": "package",
+    "name": "claude-code",
+    "subscriber": [
+      "SYSTEM",
+      "oa:joeA"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.296222Z"
+  },
+  {
+    "unid": "1843e544-df17-438c-8fa6-29222e426544",
+    "content_hash": "6353ac0ef93aeb614b9a05f4643b7f07009676f47f74d509f7a8e9b03f53d08a",
+    "ordinal": 257,
+    "composition": "perception",
+    "name": "joey-mac-recon-001",
+    "subscriber": [
+      "SYSTEM",
+      "oa:joey",
+      "oa:joeA"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.296375Z",
+    "content_type": "utf8"
+  },
+  {
+    "unid": "3fa11ce9-6b29-4721-abbc-3d91f8b9028b",
+    "content_hash": "ba6a1ba8571705bc8c79e98e9199698fb772cc47f29eeec28c1250dd0f749c76",
+    "ordinal": 260,
+    "composition": "plugin",
+    "name": "brain",
+    "subscriber": [
+      "SYSTEM",
+      "oa:joey"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.296409Z"
+  },
+  {
+    "unid": "3349ab90-7bb7-4c7f-a62d-49943452cc6b",
+    "content_hash": "fbacf1bdfb33b6c5f2d5de51f0d5bb8154dec88b4dc6592a90979490ffa549f9",
+    "ordinal": 262,
+    "composition": "plugin",
+    "name": "memory",
+    "subscriber": [
+      "SYSTEM",
+      "oa:joey"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.296434Z"
+  },
+  {
+    "unid": "ad40e3fd-be92-4a33-b9d7-bf70ad56141c",
+    "content_hash": "fb59f048cfaaf97ec4f668fd8bfa60bbb7364a380c8ca599efc0fd2d559a2a94",
+    "ordinal": 264,
+    "composition": "plugin",
+    "name": "sentinel",
+    "subscriber": [
+      "SYSTEM",
+      "oa:joey"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.296463Z"
+  },
+  {
+    "unid": "177985b5-a8bd-458c-b38f-f0ff49b8f908",
+    "content_hash": "4f91631e6e801aec987e74c771fba4a889645a0333cbd5e90485b0c7aed2c3e8",
+    "ordinal": 266,
+    "composition": "plugin",
+    "name": "focus-tracker",
+    "subscriber": [
+      "SYSTEM",
+      "oa:joey"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.296485Z"
+  },
+  {
+    "unid": "182e1883-c625-4a58-8286-42d9354dcf05",
+    "content_hash": "2cd8aea9fe8758a65e43480ebfecb22d8cd719190671f83daf2c0de55d631c2f",
+    "ordinal": 268,
+    "composition": "plugin",
+    "name": "brutallyhonest",
+    "subscriber": [
+      "SYSTEM",
+      "oa:joey"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.296505Z"
+  },
+  {
+    "unid": "ffacd97b-6a3b-4b92-ad2f-4842f7349398",
+    "content_hash": "9328ade93a19d2b737653414d6b79e6ac6eb5e312f046bc347575b205b9f4336",
+    "ordinal": 270,
+    "composition": "plugin",
+    "name": "discord",
+    "subscriber": [
+      "SYSTEM",
+      "oa:joey"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.296530Z"
+  },
+  {
+    "unid": "c14913bc-e7c4-420e-9da4-74209187c56d",
+    "content_hash": "5cbc562fea09d1d8f4b84ce0d532ca9063d49ef7bddc1143ada91d5aca76ab98",
+    "ordinal": 272,
+    "composition": "plugin",
+    "name": "dropanywhere",
+    "subscriber": [
+      "SYSTEM",
+      "oa:joey"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.296550Z"
+  },
+  {
+    "unid": "661ac215-2e17-481f-857c-c31c435fb12e",
+    "content_hash": "db2a456037f536a2e871c6a71d06d11dc365f4f07ee56be6f438efede7d075bc",
+    "ordinal": 274,
+    "composition": "memory",
+    "name": "joeA-insight-001",
+    "subscriber": [
+      "SYSTEM",
+      "oa:joey",
+      "oa:joeA"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.296571Z",
+    "content_type": "utf8"
+  },
+  {
+    "unid": "fc1d8e7e-ecd3-4faf-8b19-7d795ade8701",
+    "content_hash": "f85f5bc7438e582a451153f4b1584d787ec5457a470dc79d40d95599158903e3",
+    "ordinal": 277,
+    "composition": "memory",
+    "name": "joeA-insight-002",
+    "subscriber": [
+      "SYSTEM",
+      "oa:joey",
+      "oa:joeA"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.296593Z",
+    "content_type": "utf8"
+  },
+  {
+    "unid": "871ca6b9-5aa7-4391-a4b9-3020417bb285",
+    "content_hash": "3beee4ddf3c3fbe42235d26e23f309f40540d8a1dd9b5595aa97f86c49126b7a",
+    "ordinal": 292,
+    "composition": "memory",
+    "name": "sync-needed-ea18cc5a",
+    "subscriber": [
+      "SYSTEM"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.296614Z",
+    "content_type": "utf8"
+  },
+  {
+    "unid": "0fb07817-fd3f-4802-b780-38a88072348a",
+    "content_hash": "3078c706fb335b42dcb8e21bae12209855a6af0eaf49f776369b0e2f61471ec8",
+    "ordinal": 294,
+    "composition": "memory",
+    "name": "sync-needed-b24d7f9e",
+    "subscriber": [
+      "SYSTEM"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.296634Z",
+    "content_type": "utf8"
+  },
+  {
+    "unid": "73e6ce5b-0a94-41b6-b285-3a909fa09cb5",
+    "content_hash": "770276ba81c7026e939338685b2d5fd57c3ed02c33304db6048f3d13927ec389",
+    "ordinal": 296,
+    "composition": "memory",
+    "name": "sync-needed-11ee4649",
+    "subscriber": [
+      "SYSTEM"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.296653Z",
+    "content_type": "utf8"
+  },
+  {
+    "unid": "1d8a1aef-ee50-48f1-8ed8-546239215239",
+    "content_hash": "127720f68826fbd78657c73530266a5e34108a87f97250150575d0498faa190c",
+    "ordinal": 298,
+    "composition": "memory",
+    "name": "sync-needed-0105acc2",
+    "subscriber": [
+      "SYSTEM"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.296673Z",
+    "content_type": "utf8"
+  },
+  {
+    "unid": "e0a4d1c1-bf26-4f6a-9da3-e7fc060596e0",
+    "content_hash": "0c95ff2281e7287f17da3ad45ed37b4f34e62719f11825d32f568ddfc77d0035",
+    "ordinal": 300,
+    "composition": "memory",
+    "name": "sync-needed-3562d401",
+    "subscriber": [
+      "SYSTEM"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.296691Z",
+    "content_type": "utf8"
+  },
+  {
+    "unid": "ca884d9b-f5ef-4d82-a53b-b93f431ba1aa",
+    "content_hash": "bc701eb1f2970168724b0b7342beb964f690001be04c93bf646c75bb2e489533",
+    "ordinal": 302,
+    "composition": "memory",
+    "name": "sync-needed-7741245c",
+    "subscriber": [
+      "SYSTEM"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.296713Z",
+    "content_type": "utf8"
+  },
+  {
+    "unid": "14c98480-2cad-4714-8c2b-d73178370515",
+    "content_hash": "25624575a7b861cdff322a2e070531c1ac1e925165ef728e33223ff5e21b5785",
+    "ordinal": 304,
+    "composition": "memory",
+    "name": "sync-needed-5f40880a",
+    "subscriber": [
+      "SYSTEM"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.296731Z",
+    "content_type": "utf8"
+  },
+  {
+    "unid": "d517d767-bd37-4f7d-90cf-df0f06072bfc",
+    "content_hash": "5679151b490c131f5ccdb0bdc3e80eafbde415158a130183e73750f2ad28d9cf",
+    "ordinal": 306,
+    "composition": "memory",
+    "name": "sync-needed-7198b452",
+    "subscriber": [
+      "SYSTEM"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.296750Z",
+    "content_type": "utf8"
+  },
+  {
+    "unid": "3f18a54b-691b-44fd-8958-6a6585197633",
+    "content_hash": "2616350e318e76e9e88109f0332f3987184c759f8680a4f9b0f9651d4ce02afc",
+    "ordinal": 308,
+    "composition": "memory",
+    "name": "sync-needed-c2bfa6c4",
+    "subscriber": [
+      "SYSTEM"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.296768Z",
+    "content_type": "utf8"
+  },
+  {
+    "unid": "bdcb877d-6bbe-4c92-beeb-afa09f441c70",
+    "content_hash": "c742a842360efeb0085018cda7c6dbb06d53a5c6362b09cefacc37f7dcce3277",
+    "ordinal": 310,
+    "composition": "memory",
+    "name": "sync-needed-5d614e98",
+    "subscriber": [
+      "SYSTEM"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.296832Z",
+    "content_type": "utf8"
+  },
+  {
+    "unid": "ad3e547a-37b2-41e8-8672-38f801db97ef",
+    "content_hash": "04aa7b3017fca3996fe39c0093b707d4ded2154f0c72da7141e80173cfaee2e0",
+    "ordinal": 312,
+    "composition": "memory",
+    "name": "sync-needed-d82f9889",
+    "subscriber": [
+      "SYSTEM"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.296850Z",
+    "content_type": "utf8"
+  },
+  {
+    "unid": "012ea2ee-2ab0-4cb0-b612-3247d75547f3",
+    "content_hash": "dc2b43ff00f6a75bee302c2b8d41951343762f220610921bd2e75c9083723f3d",
+    "ordinal": 314,
+    "composition": "memory",
+    "name": "sync-needed-c346b6d3",
+    "subscriber": [
+      "SYSTEM"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.296869Z",
+    "content_type": "utf8"
+  },
+  {
+    "unid": "5235f32b-3b2d-4706-879d-b923df042e68",
+    "content_hash": "11fe459312d4cd59e76f32b31513f3ce16926f7a0664844625292cb2fb4d5b35",
+    "ordinal": 316,
+    "composition": "memory",
+    "name": "sync-needed-7bb3d50f",
+    "subscriber": [
+      "SYSTEM"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.296888Z",
+    "content_type": "utf8"
+  },
+  {
+    "unid": "06d46b33-875e-42fc-9255-b37085ffae10",
+    "content_hash": "72cf9b1e7b12dcfb4440cfe1c1e84fa22cae501c6d247c5a551a443cc411e29a",
+    "ordinal": 318,
+    "composition": "memory",
+    "name": "sync-needed-f9a98b2e",
+    "subscriber": [
+      "SYSTEM"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.296908Z",
+    "content_type": "utf8"
+  },
+  {
+    "unid": "666c79ed-4523-4898-bfa6-da36faff01fa",
+    "content_hash": "04f1b0451495223f246779889db620a427263498880029d61738ff7a360e27f4",
+    "ordinal": 320,
+    "composition": "memory",
+    "name": "sync-needed-22b6beb0",
+    "subscriber": [
+      "SYSTEM"
+    ],
+    "origin_peer": "joeys-mac",
+    "origin_endpoint": "",
+    "updated_at": "2026-04-25T03:43:01.296927Z",
+    "content_type": "utf8"
+  }
+]
