@@ -1,33 +1,20 @@
 [
   {
-    "composition": "composition/event",
-    "content_hash": "01aec4d7626f2c093e51a89c6da6e749a2018d8ed19e018a5b4e75e0de4b73ed",
-    "enrolled_by": "",
-    "name": "(unnamed)",
+    "composition": "composition/operation",
+    "content_hash": "a56f76bbeebfd653ce58090325708663d5ce8f3f45931803a9b12275028c8606",
+    "enrolled_by": "6c7f935a-444c-5247-aaa2-bdb331fb4928",
+    "name": "operation/crypto_price",
     "origin_endpoint": "joeys-mac",
     "origin_peer": "joeys-mac-macos",
     "subscriber": [
       "SYSTEM"
     ],
-    "unid": "f0d8adb6-bd89-46ae-9ba6-39883130e893",
-    "updated_at": "2026-05-16T11:37:11.305714+00:00"
+    "unid": "23a27145-0960-5443-9336-5b9763b9e1e5",
+    "updated_at": "2026-05-16T11:48:10.092655+00:00"
   },
   {
     "composition": "composition/event",
-    "content_hash": "fc5047d632208b05577af0dcd694ace1cc913f2f1aa7aae31876f03c941a9d47",
-    "enrolled_by": "",
-    "name": "(unnamed)",
-    "origin_endpoint": "joeys-mac",
-    "origin_peer": "joeys-mac-macos",
-    "subscriber": [
-      "SYSTEM"
-    ],
-    "unid": "b8160e61-d467-48fc-aba5-d83766517581",
-    "updated_at": "2026-05-16T11:42:17.863137+00:00"
-  },
-  {
-    "composition": "composition/event",
-    "content_hash": "f3b0bdec5761bac0bd99df22715a61a84a57727536000e1f9a5de16c970cb73e",
+    "content_hash": "9c2f13003a213d4bddedefff5c5a480cd4feb11aa6af5e0e83b5af64afa268a3",
     "enrolled_by": "0717b144-38db-5882-8206-e6142756013f",
     "name": "(unnamed)",
     "origin_endpoint": "joeys-mac",
@@ -35,33 +22,7 @@
     "subscriber": [
       "SYSTEM"
     ],
-    "unid": "f43661ee-99bb-45c5-b889-52a50c1c0af1",
-    "updated_at": "2026-05-16T11:45:46.911846+00:00"
-  },
-  {
-    "composition": "composition/event",
-    "content_hash": "50c936082778bb79b48d258aa91448804cdecea8d4d726b3e13d3638b7ac6234",
-    "enrolled_by": "0717b144-38db-5882-8206-e6142756013f",
-    "name": "(unnamed)",
-    "origin_endpoint": "joeys-mac",
-    "origin_peer": "joeys-mac-macos",
-    "subscriber": [
-      "SYSTEM"
-    ],
-    "unid": "7f04592e-fb03-4f88-b0d9-2df03c7ba976",
-    "updated_at": "2026-05-16T11:45:46.955921+00:00"
-  },
-  {
-    "composition": "composition/event",
-    "content_hash": "53594487bff71089b7b3849b9db0d66a76b92a709e7ae1eb4aad265fc6c4f8c6",
-    "enrolled_by": "1e9fec74-1532-51c9-8825-f064798a6178",
-    "name": "event/pk_invoke/op/enroll_blob/4295d279-66a2-481d-98b3-2cb06a2df8d4",
-    "origin_endpoint": "joeys-mac",
-    "origin_peer": "joeys-mac-macos",
-    "subscriber": [
-      "SYSTEM"
-    ],
-    "unid": "a154a304-bfeb-53a3-ad5a-7d848f7d6810",
-    "updated_at": "2026-05-16T11:46:22.376170+00:00"
+    "unid": "7ca55fa4-ec76-45ad-a07b-15b58067eb08",
+    "updated_at": "2026-05-16T11:48:10.092655+00:00"
   }
 ]
