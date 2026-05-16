@@ -1,262 +1,28 @@
 [
   {
-    "composition": "composition/library",
-    "content_hash": "42741c3022a99657bfcd89ca296da6fb79cfd036a0176f129a8d400973a3d3bb",
-    "enrolled_by": "0717b144-38db-5882-8206-e6142756013f",
-    "name": "library/mac_device",
-    "origin_endpoint": "joeys-mac",
-    "origin_peer": "joeys-mac-macos",
-    "subscriber": [
-      "SYSTEM"
-    ],
-    "unid": "97dff006-d955-5521-858e-a807783ab96e",
-    "updated_at": "2026-05-16T08:32:18.300044+00:00"
-  },
-  {
     "composition": "composition/mac_service",
-    "content_hash": "ac5cce7a77c349dd22b982864aec9360c4ba31064e019d258b03625ffbb61b3f",
+    "content_hash": "1ee9307bcfb1fe42cf7900125f4267f326973f83d79441018234e7800e58dcd6",
     "enrolled_by": "0717b144-38db-5882-8206-e6142756013f",
-    "name": "mac_service/ollama",
+    "name": "mac_service/claude-guard",
     "origin_endpoint": "joeys-mac",
     "origin_peer": "joeys-mac-macos",
     "subscriber": [
       "SYSTEM"
     ],
-    "unid": "e34197dd-2deb-5179-b5fe-571696f37d76",
-    "updated_at": "2026-05-16T08:33:00.703406+00:00"
+    "unid": "44c97bc7-01fe-54ce-a43f-4497f01ac6c3",
+    "updated_at": "2026-05-16T08:39:59.735760+00:00"
   },
   {
-    "composition": "composition/mac_service",
-    "content_hash": "99b0df3a3dedacdb875e69716f392e1cca35d2e5e7b7699249d03a53257600e3",
+    "composition": "composition/reflection",
+    "content_hash": "5c23fa7a346a9431ceb8dd8a2a28501dba73f95bb2616de6344d93e4d4abcf4c",
     "enrolled_by": "0717b144-38db-5882-8206-e6142756013f",
-    "name": "mac_service/imessage-relay",
+    "name": "reflection/joea/session/2026-05-16-mac-sovereignty",
     "origin_endpoint": "joeys-mac",
     "origin_peer": "joeys-mac-macos",
     "subscriber": [
       "SYSTEM"
     ],
-    "unid": "26d8f396-3053-5387-a7fb-37c6f971464b",
-    "updated_at": "2026-05-16T08:33:00.703406+00:00"
-  },
-  {
-    "composition": "composition/mac_service",
-    "content_hash": "97f6ead5d3b011c8fb71a94dedb39d26e3b11aa086820a9652e745216111b624",
-    "enrolled_by": "0717b144-38db-5882-8206-e6142756013f",
-    "name": "mac_service/inbox-ingest",
-    "origin_endpoint": "joeys-mac",
-    "origin_peer": "joeys-mac-macos",
-    "subscriber": [
-      "SYSTEM"
-    ],
-    "unid": "16953e11-45a8-5122-a806-5c34ddac9d46",
-    "updated_at": "2026-05-16T08:33:00.703406+00:00"
-  },
-  {
-    "composition": "composition/mac_service",
-    "content_hash": "c873d1201dd432cac263caf0bf8d33071f025adf84b349d2174c245927858c6a",
-    "enrolled_by": "0717b144-38db-5882-8206-e6142756013f",
-    "name": "mac_service/web",
-    "origin_endpoint": "joeys-mac",
-    "origin_peer": "joeys-mac-macos",
-    "subscriber": [
-      "SYSTEM"
-    ],
-    "unid": "7ee16c95-4fae-5df5-ad1f-b0b5ffb73749",
-    "updated_at": "2026-05-16T08:33:00.703406+00:00"
-  },
-  {
-    "composition": "composition/mac_service",
-    "content_hash": "a376d5c1482030f0ef17735436f37ab7d54518635c8a775f10669c9a788fb0ff",
-    "enrolled_by": "0717b144-38db-5882-8206-e6142756013f",
-    "name": "mac_service/federation-sync",
-    "origin_endpoint": "joeys-mac",
-    "origin_peer": "joeys-mac-macos",
-    "subscriber": [
-      "SYSTEM"
-    ],
-    "unid": "367718b8-cbf5-53b0-a50c-eb7bd29e413b",
-    "updated_at": "2026-05-16T08:33:00.703406+00:00"
-  },
-  {
-    "composition": "composition/mac_service",
-    "content_hash": "472195ece67501460afa9badd473bfbfd07aba874de94e22cfcee6ea2d8975bd",
-    "enrolled_by": "0717b144-38db-5882-8206-e6142756013f",
-    "name": "mac_service/ssh-tunnel-7900xt",
-    "origin_endpoint": "joeys-mac",
-    "origin_peer": "joeys-mac-macos",
-    "subscriber": [
-      "SYSTEM"
-    ],
-    "unid": "c58064db-9d1b-5904-be88-b999a507b74c",
-    "updated_at": "2026-05-16T08:33:00.703406+00:00"
-  },
-  {
-    "composition": "composition/mac_service",
-    "content_hash": "48db5b8927c5e521650d4b911fec5a42f997681eefb34c241a5d3a6e2d4e268d",
-    "enrolled_by": "0717b144-38db-5882-8206-e6142756013f",
-    "name": "mac_service/tick-clocks",
-    "origin_endpoint": "joeys-mac",
-    "origin_peer": "joeys-mac-macos",
-    "subscriber": [
-      "SYSTEM"
-    ],
-    "unid": "1557ecdd-c3c8-5889-99a7-21b1be7b0eaa",
-    "updated_at": "2026-05-16T08:33:00.703406+00:00"
-  },
-  {
-    "composition": "composition/mac_service",
-    "content_hash": "603b84a8b2f91627600f556d1448ab1e9d0d2538914013b8049e04b268260ff2",
-    "enrolled_by": "0717b144-38db-5882-8206-e6142756013f",
-    "name": "mac_service/babel-b2b",
-    "origin_endpoint": "joeys-mac",
-    "origin_peer": "joeys-mac-macos",
-    "subscriber": [
-      "SYSTEM"
-    ],
-    "unid": "1be50a5b-8003-5b96-8ff4-296b16ec6a8c",
-    "updated_at": "2026-05-16T08:33:00.703406+00:00"
-  },
-  {
-    "composition": "composition/mac_service",
-    "content_hash": "80955dba19c926a192f7c27cb5cc4a284468e452555c741173ebd8c918f8ecbf",
-    "enrolled_by": "0717b144-38db-5882-8206-e6142756013f",
-    "name": "mac_service/babel",
-    "origin_endpoint": "joeys-mac",
-    "origin_peer": "joeys-mac-macos",
-    "subscriber": [
-      "SYSTEM"
-    ],
-    "unid": "ba8120a2-f503-5791-9c7f-d2692b7a78dc",
-    "updated_at": "2026-05-16T08:33:00.703406+00:00"
-  },
-  {
-    "composition": "composition/library",
-    "content_hash": "3efad44af5dd500e0d24cb9d940ca78cd2cd712e0b587942d1de570638db41a1",
-    "enrolled_by": "0717b144-38db-5882-8206-e6142756013f",
-    "name": "clock/tick_mac_drift",
-    "origin_endpoint": "joeys-mac",
-    "origin_peer": "joeys-mac-macos",
-    "subscriber": [
-      "SYSTEM"
-    ],
-    "unid": "1df8df08-1e32-5cc3-8767-0aa9a7b0495e",
-    "updated_at": "2026-05-16T08:33:00.703406+00:00"
-  },
-  {
-    "composition": "composition/mac_service",
-    "content_hash": "fce8d68372a63c7f798ab0c5e14c276e1932b6f54d768e2b45669ce6bc9c3ead",
-    "enrolled_by": "0717b144-38db-5882-8206-e6142756013f",
-    "name": "mac_service/atomic-clock",
-    "origin_endpoint": "joeys-mac",
-    "origin_peer": "joeys-mac-macos",
-    "subscriber": [
-      "SYSTEM"
-    ],
-    "unid": "6deaab03-3667-5017-a9cd-dcdaadf6e7fe",
-    "updated_at": "2026-05-16T08:33:00.703406+00:00"
-  },
-  {
-    "composition": "composition/mac_service",
-    "content_hash": "54d2cff1ef4ce5428c3a4f4a5b08ab94d12dba5e544ffb30c65e067d52687be6",
-    "enrolled_by": "0717b144-38db-5882-8206-e6142756013f",
-    "name": "mac_service/actuator",
-    "origin_endpoint": "joeys-mac",
-    "origin_peer": "joeys-mac-macos",
-    "subscriber": [
-      "SYSTEM"
-    ],
-    "unid": "2299c4e0-e48f-52b0-b492-193b03ae8130",
-    "updated_at": "2026-05-16T08:33:00.703406+00:00"
-  },
-  {
-    "composition": "composition/mac_service",
-    "content_hash": "ac639d01d9e6dff56fb1554bd4e25b97529a57a3e0551859d8a3c2148c1e43ba",
-    "enrolled_by": "0717b144-38db-5882-8206-e6142756013f",
-    "name": "mac_service/joea-rc",
-    "origin_endpoint": "joeys-mac",
-    "origin_peer": "joeys-mac-macos",
-    "subscriber": [
-      "SYSTEM"
-    ],
-    "unid": "855876cf-829f-56aa-b70e-e24343a892d7",
-    "updated_at": "2026-05-16T08:33:00.703406+00:00"
-  },
-  {
-    "composition": "composition/library",
-    "content_hash": "ef807c5d2fca1c5ae08f939cd18b7ad7745fa27fdf6f7347a22e5cd07d8dacfb",
-    "enrolled_by": "0717b144-38db-5882-8206-e6142756013f",
-    "name": "gateway/joey-mac",
-    "origin_endpoint": "joeys-mac",
-    "origin_peer": "joeys-mac-macos",
-    "subscriber": [
-      "SYSTEM"
-    ],
-    "unid": "7de43ec3-adbd-580f-989f-656e20ed214c",
-    "updated_at": "2026-05-16T08:33:00.703406+00:00"
-  },
-  {
-    "composition": "composition/mac_service",
-    "content_hash": "09281b8574970decbc839972938544c16be16dc35665e79236d93d5de444abd6",
-    "enrolled_by": "0717b144-38db-5882-8206-e6142756013f",
-    "name": "mac_service/imessage-receive",
-    "origin_endpoint": "joeys-mac",
-    "origin_peer": "joeys-mac-macos",
-    "subscriber": [
-      "SYSTEM"
-    ],
-    "unid": "d4f71a93-a007-5b6a-9d44-3dd31eee7d03",
-    "updated_at": "2026-05-16T08:33:00.703406+00:00"
-  },
-  {
-    "composition": "composition/library",
-    "content_hash": "1727e28d754be3c81431674c27e0af3be4cbbb8fa75526a880a7a3d64a8bdbb2",
-    "enrolled_by": "0717b144-38db-5882-8206-e6142756013f",
-    "name": "composition/mac_service",
-    "origin_endpoint": "joeys-mac",
-    "origin_peer": "joeys-mac-macos",
-    "subscriber": [
-      "SYSTEM"
-    ],
-    "unid": "cbdbc10e-edde-5cf7-b8dd-c33ad95f45b4",
-    "updated_at": "2026-05-16T08:33:00.703406+00:00"
-  },
-  {
-    "composition": "composition/library",
-    "content_hash": "5918537ce67510eab9738243184e500eb562d2eac42f629e29595c225bff9e7d",
-    "enrolled_by": "0717b144-38db-5882-8206-e6142756013f",
-    "name": "operation/mac_daemon_drift",
-    "origin_endpoint": "joeys-mac",
-    "origin_peer": "joeys-mac-macos",
-    "subscriber": [
-      "SYSTEM"
-    ],
-    "unid": "423f5f10-4850-517b-a3f3-b00dd765352a",
-    "updated_at": "2026-05-16T08:33:00.703406+00:00"
-  },
-  {
-    "composition": "composition/library",
-    "content_hash": "6f79663d3ed0e009d8026e5b9c8142cd47ac034dfd91011ff573f97112e4392e",
-    "enrolled_by": "0717b144-38db-5882-8206-e6142756013f",
-    "name": "operation/mac_daemon_unload",
-    "origin_endpoint": "joeys-mac",
-    "origin_peer": "joeys-mac-macos",
-    "subscriber": [
-      "SYSTEM"
-    ],
-    "unid": "735638c8-1cb9-5ad7-b5a5-45bb11be08d5",
-    "updated_at": "2026-05-16T08:33:00.703406+00:00"
-  },
-  {
-    "composition": "composition/library",
-    "content_hash": "b341ef72ee90f989c3f627b8010bd9ea48f60de916f6535ff7324d814907c5e6",
-    "enrolled_by": "0717b144-38db-5882-8206-e6142756013f",
-    "name": "operation/mac_daemon_load",
-    "origin_endpoint": "joeys-mac",
-    "origin_peer": "joeys-mac-macos",
-    "subscriber": [
-      "SYSTEM"
-    ],
-    "unid": "7af79378-42fe-5ee9-b004-b90d8c925b3d",
-    "updated_at": "2026-05-16T08:33:00.703406+00:00"
+    "unid": "a5b0a128-a980-423c-b6c4-a4fad144a542",
+    "updated_at": "2026-05-16T08:41:58.578261+00:00"
   }
 ]
